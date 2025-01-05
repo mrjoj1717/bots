@@ -21,7 +21,7 @@ iniconfig==2.0.0
 kiwisolver==1.4.8
 matplotlib==3.10.0
 multidict==6.1.0
-numpy==2.2.1
+numpy==1.21.0
 packaging==24.2
 pandas==2.2.3
 pandas_ta==0.3.14b0
